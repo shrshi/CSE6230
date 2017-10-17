@@ -1,0 +1,12 @@
+[submodule "Ex4"]
+	path = Ex4
+	url = https://shruti1995@bitbucket.org/shruti1995/cse6230fa17-ex04-sshivakumar9.git
+[submodule "Ex5"]
+	path = Ex5
+	url = https://shruti1995@bitbucket.org/shruti1995/cse6230-ex5.git
+[submodule "Projects/Project_1"]
+	path = Projects/Project_1
+	url = https://shruti1995@bitbucket.org/shruti1995/cse6230fa17-proj1-sshivakumar9.git
+[submodule "Projects/Project_2"]
+	path = Projects/Project_2
+	url = https://shruti1995@bitbucket.org/shruti1995/project-2.git
